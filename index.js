@@ -1,7 +1,7 @@
 var parser = require("fast-xml-parser");
 const request = require("request");
 
-const adress = 11707310;
+const adress = //CEP
 
 const url = "http://viacep.com.br/ws/";
 const path = `${adress}/xml/`;
